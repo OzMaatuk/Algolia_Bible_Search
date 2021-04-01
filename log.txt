@@ -1,0 +1,22 @@
+
+> ais-ecommerce-demo-app@1.0.0 start c:\929\SearchInterface\AlgoliaSearchInterface
+> react-scripts start
+
+Starting the development server...
+
+Compiled successfully!
+
+You can now view ais-ecommerce-demo-app in the browser.
+
+  Local:            http://localhost:3000/
+  On Your Network:  http://192.168.2.28:3000/
+
+Note that the development build is not optimized.
+To create a production build, use npm run build.
+
+Terminate batch job (Y/N)? 
+
+> ais-ecommerce-demo-app@1.0.0 start c:\929\SearchInterface\AlgoliaSearchInterface
+> react-scripts start
+
+Terminate batch job (Y/N)? 
